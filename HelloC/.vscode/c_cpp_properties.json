@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Msys",
+            "includePath": [
+                "C:/msys64/mingw64/include/c++/10.2.0",
+                "C:/msys64/mingw64/x86_64-w64-mingw32/include",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
